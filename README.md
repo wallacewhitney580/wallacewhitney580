@@ -1,6 +1,10 @@
 ## Hi there 👋
-###**My name is Whitney!**
-####I am a full-time student at the University Of Phoenix and I am brand new to the coding community. I figured I'd try GitHub since I am getting a degree in Science, most specifically Cybersecurity. I am open to any help and any advice as I try to learn coding and everything else along with it.
+<html>
+  <h1>My name is Whitney!<br/></h1>
+  <body>I am a full-time student at the University Of Phoenix and I am brand new to the coding community. I figured I'd try GitHub since I am getting a degree in Science, most specifically Cybersecurity. I am open to any help and any advice as I try to learn coding and everything else along with it.</body>
+</html>
+  
+
 
 
 <!--
